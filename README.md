@@ -24,7 +24,7 @@ or you could install from [homebrew](https://github.com/Homebrew/homebrew)
 ```
 
 ## Notice
-The script will only install the last mod you subscribe, so you need to ruby the script every time when you subscribe new mod.
+The script will only install the last mod you subscribe, so you need to run the script every time when you subscribe new mod.
 
 
 ## Contributing
